@@ -1,5 +1,5 @@
 - 👋  Hi, It's me - Hong La - a coffeeholic guy who fall madly in love with cat 🐱, cactus 🌵, and sunflower 🌻.
-- 🌱  I’m currently working as a Consultant at Thoughtworks
+- 🌱  I’m currently working as a Senior Consultant at Thoughtworks
 - 📫  You guys can reach me by email hongla.html@gmail.com
 
 <!---
